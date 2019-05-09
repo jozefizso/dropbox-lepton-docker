@@ -1,2 +1,2 @@
 # dropbox-lepton-docker
-lepton from Dropbox inside docker container.
+> *lepton* from Dropbox inside docker container.
